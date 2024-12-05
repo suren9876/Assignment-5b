@@ -1,0 +1,25 @@
+body {
+   
+    font-family: Arial, sans-serif; 
+    text-align: center;
+   
+    }  
+
+    #header{
+        background-color: beige;
+      
+    }
+
+    #nav{
+        background:rgb(248, 238, 238);
+
+    }
+
+    #section{
+      background:bisque;
+    }
+    h2{
+        font-size: medium;
+
+    }
+    
